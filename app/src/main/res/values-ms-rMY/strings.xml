@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pinjaman Kereta</string>
+    <string name="app_name">Pinjaman Kereta</string>
+    <string name="second_fragment_label">Faedah</string>
+    <string name="price">Harga</string>
+    <string name="down_pymt">Bayatan Pendahuluan</string>
+    <string name="inc">Pendapatan</string>
+    <string name="rate">Kadar Faedah (%)</string>
+    <string name="loan">Tempoh Pinjaham (tahun)</string>
+    <string name="monthly_payment">Bayaran Bulanan</string>
+    <string name="close">Tutup</string>
+    <string name="calculate">Kira</string>
+    <string name="about">Tentang</string>
+</resources>
